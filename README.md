@@ -1,4 +1,4 @@
-#Player Salaries
+# Player Salaries
 
 Final Project for Data Science 100.
 
